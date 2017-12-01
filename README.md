@@ -1,5 +1,5 @@
 # CST8277_Assignment01
-CST 8277 - Assignment 1
+BOUNCING SPRITE
 
 To ecome familiar with the given bouncing sprite Java program. The user clicks the mouse inside the window to
 start a blue sprite bouncing inside the window. This is an animated program, which runs an infinite loop to
