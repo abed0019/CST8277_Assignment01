@@ -1,7 +1,7 @@
 # CST8277_Assignment01
 BOUNCING SPRITE
 
-To ecome familiar with the given bouncing sprite Java program. The user clicks the mouse inside the window to
+To become familiar with the given bouncing sprite Java program. The user clicks the mouse inside the window to
 start a blue sprite bouncing inside the window. This is an animated program, which runs an infinite loop to
 repeatedly re-draw the sprite in the panel about 25 times per second, which we call the frame rate. In Swing 2D
 graphics, calling repaint causes the system to invoke the paintComponent method with the appropriate
